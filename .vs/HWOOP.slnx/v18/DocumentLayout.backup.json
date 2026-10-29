@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AB\\OneDrive\\Documents\\corss\\HWOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA814CE5-4FDD-DA95-B82F-B323BF31FB21}|HWOOP\\Librarysystem.csproj|c:\\users\\ab\\onedrive\\documents\\corss\\hwoop\\hwoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA814CE5-4FDD-DA95-B82F-B323BF31FB21}|HWOOP\\Librarysystem.csproj|solutionrelative:hwoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA814CE5-4FDD-DA95-B82F-B323BF31FB21}|HWOOP\\Librarysystem.csproj|c:\\users\\ab\\onedrive\\documents\\corss\\hwoop\\hwoop\\librarysystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA814CE5-4FDD-DA95-B82F-B323BF31FB21}|HWOOP\\Librarysystem.csproj|solutionrelative:hwoop\\librarysystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA814CE5-4FDD-DA95-B82F-B323BF31FB21}|HWOOP\\Librarysystem.csproj|c:\\users\\ab\\onedrive\\documents\\corss\\hwoop\\hwoop\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA814CE5-4FDD-DA95-B82F-B323BF31FB21}|HWOOP\\Librarysystem.csproj|solutionrelative:hwoop\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA814CE5-4FDD-DA95-B82F-B323BF31FB21}|HWOOP\\Librarysystem.csproj|c:\\users\\ab\\onedrive\\documents\\corss\\hwoop\\hwoop\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA814CE5-4FDD-DA95-B82F-B323BF31FB21}|HWOOP\\Librarysystem.csproj|solutionrelative:hwoop\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA814CE5-4FDD-DA95-B82F-B323BF31FB21}|HWOOP\\Librarysystem.csproj|c:\\users\\ab\\onedrive\\documents\\corss\\hwoop\\hwoop\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA814CE5-4FDD-DA95-B82F-B323BF31FB21}|HWOOP\\Librarysystem.csproj|solutionrelative:hwoop\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA814CE5-4FDD-DA95-B82F-B323BF31FB21}|HWOOP\\Librarysystem.csproj|c:\\users\\ab\\onedrive\\documents\\corss\\hwoop\\hwoop\\libraryitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA814CE5-4FDD-DA95-B82F-B323BF31FB21}|HWOOP\\Librarysystem.csproj|solutionrelative:hwoop\\libraryitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA814CE5-4FDD-DA95-B82F-B323BF31FB21}|HWOOP\\Librarysystem.csproj|c:\\users\\ab\\onedrive\\documents\\corss\\hwoop\\hwoop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA814CE5-4FDD-DA95-B82F-B323BF31FB21}|HWOOP\\Librarysystem.csproj|solutionrelative:hwoop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Librarysystem.csproj",
+              "DocumentMoniker": "C:\\Users\\AB\\OneDrive\\Documents\\corss\\HWOOP\\HWOOP\\Librarysystem.csproj",
+              "RelativeDocumentMoniker": "HWOOP\\Librarysystem.csproj",
+              "ToolTip": "C:\\Users\\AB\\OneDrive\\Documents\\corss\\HWOOP\\HWOOP\\Librarysystem.csproj",
+              "RelativeToolTip": "HWOOP\\Librarysystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-29T20:32:38.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\AB\\OneDrive\\Documents\\corss\\HWOOP\\HWOOP\\Menu.cs",
+              "RelativeDocumentMoniker": "HWOOP\\Menu.cs",
+              "ToolTip": "C:\\Users\\AB\\OneDrive\\Documents\\corss\\HWOOP\\HWOOP\\Menu.cs",
+              "RelativeToolTip": "HWOOP\\Menu.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAuwGkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T20:37:42.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\AB\\OneDrive\\Documents\\corss\\HWOOP\\HWOOP\\Services.cs",
+              "RelativeDocumentMoniker": "HWOOP\\Services.cs",
+              "ToolTip": "C:\\Users\\AB\\OneDrive\\Documents\\corss\\HWOOP\\HWOOP\\Services.cs",
+              "RelativeToolTip": "HWOOP\\Services.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAmwFAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T20:35:41.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AB\\OneDrive\\Documents\\corss\\HWOOP\\HWOOP\\Program.cs",
+              "RelativeDocumentMoniker": "HWOOP\\Program.cs",
+              "ToolTip": "C:\\Users\\AB\\OneDrive\\Documents\\corss\\HWOOP\\HWOOP\\Program.cs",
+              "RelativeToolTip": "HWOOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T20:30:19.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Records.cs",
+              "DocumentMoniker": "C:\\Users\\AB\\OneDrive\\Documents\\corss\\HWOOP\\HWOOP\\Records.cs",
+              "RelativeDocumentMoniker": "HWOOP\\Records.cs",
+              "ToolTip": "C:\\Users\\AB\\OneDrive\\Documents\\corss\\HWOOP\\HWOOP\\Records.cs",
+              "RelativeToolTip": "HWOOP\\Records.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwCsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T20:34:30.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Libraryitems.cs",
+              "DocumentMoniker": "C:\\Users\\AB\\OneDrive\\Documents\\corss\\HWOOP\\HWOOP\\Libraryitems.cs",
+              "RelativeDocumentMoniker": "HWOOP\\Libraryitems.cs",
+              "ToolTip": "C:\\Users\\AB\\OneDrive\\Documents\\corss\\HWOOP\\HWOOP\\Libraryitems.cs",
+              "RelativeToolTip": "HWOOP\\Libraryitems.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAgwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T20:33:15.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\AB\\OneDrive\\Documents\\corss\\HWOOP\\HWOOP\\Person.cs",
+              "RelativeDocumentMoniker": "HWOOP\\Person.cs",
+              "ToolTip": "C:\\Users\\AB\\OneDrive\\Documents\\corss\\HWOOP\\HWOOP\\Person.cs",
+              "RelativeToolTip": "HWOOP\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T20:31:20.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
